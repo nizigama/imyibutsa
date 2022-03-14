@@ -8,11 +8,18 @@
             "Nizigama\\Imyibutsa\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Nizigama\\Imyibutsa\\Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Nizigama jean davy",
             "email": "jedavy.n@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
