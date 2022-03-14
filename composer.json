@@ -1,0 +1,18 @@
+{
+    "name": "nizigama/imyibutsa-y-ikirundi",
+    "description": "Generate random burundian proverbs.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nizigama\\Imyibutsa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nizigama jean davy",
+            "email": "jedavy.n@gmail.com"
+        }
+    ],
+    "require": {}
+}
